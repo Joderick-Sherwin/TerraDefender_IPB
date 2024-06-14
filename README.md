@@ -75,15 +75,15 @@ Upon training and evaluation, the TerraDefender IPB System generates detailed cl
       <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_1.png" alt="Figure 1" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_1.png" alt="Figure 1" width="400"/>
+      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_2.png" alt="Figure 2" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_1.png" alt="Figure 1" width="400"/>
+      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_3.png" alt="Figure 3" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_1.png" alt="Figure 1" width="400"/>
+      <img src="https://github.com/Joderick-Sherwin/TerraDefender_IPB/blob/main/Figure_4.png" alt="Figure 4" width="400"/>
     </td>
   </tr>
 </table>
